@@ -1,0 +1,4 @@
+Vt01|Sạc laptop|Sạc siêu nhanh|100|200000
+Vt02|Chuột Logitech|Đập mãi không vỡ|100|208000
+Vt03|Bàn phím cơ|Đập không tung phím|140|250000
+1|2|3|4|5

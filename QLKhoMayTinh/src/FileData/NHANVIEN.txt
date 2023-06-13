@@ -1,0 +1,7 @@
+NV01|Admin1|Admin|1
+NV02|Nguyễn Thanh Tùng|Kế toán|2
+NV03|Hoàng Công Trung|Quản lý|3
+NV04|Lại Hoàng Tùng|Nhân Viên|4
+NV05|Nguyễn Hoàng Minh|Nhân Viên|5
+NV06|Admin2|Admin|6
+NV07|Admin3|Admin|7

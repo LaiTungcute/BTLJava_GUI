@@ -1,0 +1,5 @@
+Lk01|Chip i5|Thiết kế bởi intel|100|5000000
+Lk02|Card đồ họa|Chơi game bao mượt|200|10000000
+LK03|RAM 8GB|Chạy chương trình mượt không tì vết|300|200000
+LK04|Ổ đĩa SSD 256GB|Ngon bổ rẻ|500|2500000
+LK05|Ổ đĩa HDD 1TB|Lưu trữ không giới hạn|1000|300000
